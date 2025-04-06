@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/7c/13/3d/7c133d2d8650d3194ae6386c46c8c341.gif"  />
+  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/2560px-Flag_of_Morocco.svg.png"  />
 </div>
 
 ###
